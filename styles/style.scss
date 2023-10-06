@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Ubuntu:wght@400;700&display=swap");
+
+// font-family: 'Lato', sans-serif;
+// font-family: 'Ubuntu', sans-serif;
+
+@import "./vendor/vars";
+@import "./vendor/settings";
+@import "./mixins/mini";
+
+// big components for a page
+@import "./components/header";
+
+// small components for a page
+@import "./components/nav";
+@import "./components/header-contacts";
