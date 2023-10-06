@@ -90,10 +90,8 @@
     transition: color 0.3s ease-in-out;
   }
 
-  &--construct {
-    &::before {
-      background-image: url("../img/services-1.jpg");
-    }
+  &::before {
+    background-image: url("../../img/services-1.jpg");
   }
 
   &:hover {
