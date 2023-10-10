@@ -8,6 +8,8 @@
 @import "./vendor/swiper.min.css";
 @import "./mixins/mini";
 
+@import "./components/slider-nav";
+
 // big components for a page
 @import "./components/header";
 @import "./components/hero";
@@ -15,6 +17,8 @@
 @import "./components/mission";
 @import "./components/services-section";
 @import "./components/portfolio-section";
+@import "./components/partners";
+@import "./components/testimonials";
 
 // small components for a page
 @import "./components/nav";
@@ -22,5 +26,4 @@
 @import "./components/video-block";
 @import "./components/form-field";
 @import "./components/learn-more";
-@import "./components/slider-nav";
 @import "./components/portfolio-item";
